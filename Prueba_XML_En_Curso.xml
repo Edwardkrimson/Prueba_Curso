@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contenido>
+    <preguntas>
+        <pregunta id="1">
+            <texto>¿Cuáles de las siguientes son estrategias utilizadas por el Grupo Enel para la gestión de riesgos? Puedes elegir varias respuestas</texto>
+            <respuesta>Análisis de peligros y riesgos</respuesta>
+            <respuesta>Mantenimiento predictivo y preventivo</respuesta>
+            <respuesta>Gestión de contratos financieros</respuesta>
+            <respuesta>Matrices de aspectos e impactos ambientales</respuesta>
+        </pregunta>
+        <pregunta id="2">
+            <texto>Texto Pregunta Actividad 2</texto>
+            <respuesta>Respuesta 1</respuesta>
+            <respuesta>Respuesta 2</respuesta>
+            <respuesta>Respuesta 3</respuesta>
+            <respuesta>Respuesta 4</respuesta>
+        </pregunta>
+        <pregunta id="3">
+            <texto>Texto Pregunta Actividad 3</texto>
+            <respuesta>Respuesta 1</respuesta>
+            <respuesta>Respuesta 2</respuesta>
+            <respuesta>Respuesta 3</respuesta>
+            <respuesta>Respuesta 4</respuesta>
+            <respuesta>Respuesta 5</respuesta>
+            <respuesta>Respuesta 6</respuesta>
+        </pregunta>
+        <!-- Más preguntas hasta la 30 -->
+    </preguntas>
+</contenido>
