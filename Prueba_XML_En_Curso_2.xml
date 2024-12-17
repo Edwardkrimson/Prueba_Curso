@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contenido>
+    <preguntas>
+        <pregunta id="1">
+            <texto>¿Cuáles de las siguientes son estrategias utilizadas por el Grupo Enel para la gestión de riesgos? Puedes elegir varias respuestas</texto>
+            <respuesta>Análisis de peligros y riesgos</respuesta>
+            <respuesta>Mantenimiento predictivo y preventivo</respuesta>
+            <respuesta>Gestión de contratos financieros</respuesta>
+            <respuesta>Matrices de aspectos e impactos ambientales</respuesta>
+        </pregunta>
+        <pregunta id="2">
+            <texto>¿Qué unidad lidera el análisis de materialidad para identificar las necesidades y expectativas de las partes interesadas en el sistema integrado de gestión HSEQ?</texto>
+            <respuesta>Unidad de Operaciones y Mantenimiento</respuesta>
+            <respuesta>Unidad de Sostenibilidad</respuesta>
+            <respuesta>Unidad de Finanzas</respuesta>
+            <respuesta>Unidad de Recursos Humanos</respuesta>
+        </pregunta>
+        <pregunta id="3">
+            <texto>La identificación de riesgos y oportunidades se realiza de manera mensual en todas las plantas de generación de Enel.</texto>
+        </pregunta>
+        <!-- Más preguntas hasta la 30 -->
+    </preguntas>
+</contenido>
