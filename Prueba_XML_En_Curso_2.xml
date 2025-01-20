@@ -50,10 +50,10 @@
             <texto>Los trabajos en espacios confinados deben contar con autorización específica y monitoreo constante.</texto>
         </pregunta>
         <pregunta id="9">
-            <texto>Es permitido manipular dispositivos eléctricos  energizados sin autorización previa en las  instalaciones de Enel.</texto>
+            <texto>Es permitido manipular dispositivos eléctricos energizados sin autorización previa en las instalaciones de Enel.</texto>
         </pregunta>
         <pregunta id="10">
-            <texto>¿Cuáles son las características que debe tener la ropa de trabajo  utilizada en las instalaciones de Enel?</texto>
+            <texto>¿Cuáles son las características que debe tener la ropa de trabajo utilizada en las instalaciones de Enel?</texto>
             <respuesta>Ropa de algodón, ignífuga y antiestática</respuesta>
             <respuesta>Ropa sintética ligera</respuesta>
             <respuesta>Ropa sin especificaciones, según preferencia del trabajador</respuesta>
@@ -67,7 +67,7 @@
             <respuesta>WAVE</respuesta>
         </pregunta>
         <pregunta id="12">
-            <texto>¿Qué herramienta utiliza Enel para identificar aspectos ambientales  asociados a sus actividades?</texto>
+            <texto>¿Qué herramienta utiliza Enel para identificar aspectos ambientales asociados a sus actividades?</texto>
             <respuesta>Environmental Risk Assessment (ERA)</respuesta>
             <respuesta>Matriz de Impactos Operacionales</respuesta>
             <respuesta>Análisis de Gestión Ambiental (AGA)</respuesta>
