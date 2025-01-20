@@ -18,6 +18,12 @@
         <pregunta id="3">
             <texto>La identificación de riesgos y oportunidades se realiza de manera mensual en todas las plantas de generación de Enel.</texto>
         </pregunta>
+        <pregunta id="4">
+            <texto>¿Dónde se ubican los puntos de encuentro en las centrales de Enel?</texto>
+            <respuesta>En lugares con buena ventilación e iluminación natural, retirados de cualquier tipo de Infraestructura</respuesta>
+            <respuesta>Cerca de las áreas de operación</respuesta>
+            <respuesta>Dentro de los almacenes de herramientas</respuesta>
+            <respuesta>Junto a los tableros eléctricos</respuesta>
         <!-- Más preguntas hasta la 30 -->
     </preguntas>
 </contenido>
