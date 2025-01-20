@@ -25,6 +25,74 @@
             <respuesta>Dentro de los almacenes de herramientas</respuesta>
             <respuesta>Junto a los tableros eléctricos</respuesta>
         </pregunta>
-        <!-- Más preguntas hasta la 30 -->
+        <pregunta id="5">
+            <texto>¿Cuáles de los siguientes elementos están incluidos en un kit de emergencia ambiental del Grupo Enel? Puedes elegir varias respuestas</texto>
+            <respuesta>Desfibriladores</respuesta>
+            <respuesta>Bolsas para residuos contaminados</respuesta>
+            <respuesta>Dentro de los almacenes de herramientas</respuesta>
+            <respuesta>Herramientas como pala y escobilla</respuesta>
+        </pregunta>
+        <pregunta id="6">
+            <texto>¿Cuáles son algunos de los riesgos principales identificados por Enel en sus instalaciones? Puedes elegir varias respuestas</texto>
+            <respuesta>Riesgo eléctrico por contacto directo o indirecto</respuesta>
+            <respuesta>Riesgo mecánico por caídas o golpes</respuesta>
+            <respuesta>Incendios y atmósferas explosivas</respuesta>
+            <respuesta>Manipulación segura de residuos no peligrosos</respuesta>
+        </pregunta>
+        <pregunta id="7">
+            <texto>¿Qué debe hacerse en caso de identificar un riesgo o condición insegura durante una actividad?</texto>
+            <respuesta>Continuar trabajando y reportar al final del turno</respuesta>
+            <respuesta>Detener la actividad y reportar de inmediato al supervisor</respuesta>
+            <respuesta>Ignorar el riesgo si no es grave</respuesta>
+            <respuesta>Tomar fotografías del riesgo y no realizar ninguna acción</respuesta>
+        </pregunta>
+        <pregunta id="8">
+            <texto>Los trabajos en espacios confinados deben contar con autorización específica y monitoreo constante.</texto>
+        </pregunta>
+        <pregunta id="9">
+            <texto>Es permitido manipular dispositivos eléctricos  energizados sin autorización previa en las  instalaciones de Enel.</texto>
+        </pregunta>
+        <pregunta id="10">
+            <texto>¿Cuáles son las características que debe tener la ropa de trabajo  utilizada en las instalaciones de Enel?</texto>
+            <respuesta>Ropa de algodón, ignífuga y antiestática</respuesta>
+            <respuesta>Ropa sintética ligera</respuesta>
+            <respuesta>Ropa sin especificaciones, según preferencia del trabajador</respuesta>
+            <respuesta>Ropa resistente al agua, sin importar el material</respuesta>
+        </pregunta>
+        <pregunta id="11">
+            <texto>¿Qué iniciativa de Enel se centra en la gestión del uso eficiente del agua?</texto>
+            <respuesta>BIRD</respuesta>
+            <respuesta>ERA</respuesta>
+            <respuesta>PHVA</respuesta>
+            <respuesta>WAVE</respuesta>
+        </pregunta>
+        <pregunta id="12">
+            <texto>¿Qué herramienta utiliza Enel para identificar aspectos ambientales  asociados a sus actividades?</texto>
+            <respuesta>Environmental Risk Assessment (ERA)</respuesta>
+            <respuesta>Matriz de Impactos Operacionales</respuesta>
+            <respuesta>Análisis de Gestión Ambiental (AGA)</respuesta>
+            <respuesta>Matriz PHVA</respuesta>
+        </pregunta>
+        <pregunta id="13">
+            <texto>¿Qué acciones promueve Enel para un manejo eficiente de residuos? Puedes elegir varias respuestas</texto>
+            <respuesta>Segregación en la fuente</respuesta>
+            <respuesta>Compostaje de residuos orgánicos</respuesta>
+            <respuesta>Incineración masiva de residuos</respuesta>
+            <respuesta>Aprovechamiento de materiales reciclables</respuesta>
+        </pregunta>
+        <pregunta id="14">
+            <texto>De manera permanente puedo aplicar la calidad en mis procesos cuando:</texto>
+            <respuesta>Planifico mis actividades / Consulta y actualizo documentos de mi alcance / Realizo seguimiento a los indicadores KPI de mi alcance / Identifico y propongo ideas de mejora</respuesta>
+            <respuesta>Consulto informes / Elaboro reportes de condiciones inseguras / Consulto documentos / Comunico a otros procesos</respuesta>
+            <respuesta>Planifico mis actividades / Comunico a otros procesos temas relevantes / Realizo seguimiento a los indicadores KPI de mi alcance / Documento todo lo que hago</respuesta>
+            <respuesta>Planifico mis actividades</respuesta>
+        </pregunta>
+        <pregunta id="15">
+            <texto>Sin importar a qué área/planta pertenezco, cuál es el principal producto/servicio de nuestra línea de negocio?</texto>
+            <respuesta>Generación y venta de energía eléctrica</respuesta>
+            <respuesta>Generación de energía eléctrica</respuesta>
+            <respuesta>Atención a clientes externos e internos</respuesta>
+            <respuesta>Desarrollo de nuevos negocios</respuesta>
+        </pregunta>
     </preguntas>
 </contenido>
