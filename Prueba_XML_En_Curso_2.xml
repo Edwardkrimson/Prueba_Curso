@@ -24,6 +24,7 @@
             <respuesta>Cerca de las áreas de operación</respuesta>
             <respuesta>Dentro de los almacenes de herramientas</respuesta>
             <respuesta>Junto a los tableros eléctricos</respuesta>
+        </pregunta>
         <!-- Más preguntas hasta la 30 -->
     </preguntas>
 </contenido>
