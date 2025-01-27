@@ -183,5 +183,24 @@
                 <banner>Enel – HSEQ | Hacer</banner>
             </diapositiva>
         </modulo>
+        <modulo id="3">
+            <actividad id="1">
+                <banner>Enel – HSEQ | Emergencias</banner>
+                <texto>Coloca en el kit los elementos de protección personal básica que tienen que usarse en caso de emergencia.</texto>
+                <opcion>No aplica</opcion>
+            </actividad>
+            <diapositiva id="1">
+                <banner>Enel – HSEQ | Kit de emergencias</banner>
+            </diapositiva>
+            <actividad id="2">
+                <banner>Enel – HSEQ | Evacuación</banner>
+                <texto>Arrastra y coloca cada afirmación en el espacio Verdadero o Falso, según corresponda.</texto>
+                <opcion>Es recomendable usar los ascensores para evacuar rápidamente</opcion>
+                <opcion>Se debe transitar por vías peatonales o vehiculares señalizadas durante una evacuación sin correr</opcion>
+                <opcion>Se debe acatar las indicaciones de los brigadistas durante una evacuación</opcion>
+                <opcion>Es aceptable ignorar las instrucciones si consideras que no hay peligro real</opcion>
+                <opcion>Seguir la señalización hasta el punto de encuentro es una acción correcta en caso de evacuación</opcion>
+            </actividad>
+        </modulo>
     </modulos>
 </contenido>
