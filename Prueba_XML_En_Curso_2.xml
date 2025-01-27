@@ -74,6 +74,7 @@
             <respuesta>Matriz PHVA</respuesta>
         </pregunta>
         <pregunta id="13">
+            <banner>Enel – HSEQ | CUESTIONARIO PREGUNTA 13</banner>
             <texto>¿Qué acciones promueve Enel para un manejo eficiente de residuos? Puedes elegir varias respuestas</texto>
             <respuesta>Segregación en la fuente</respuesta>
             <respuesta>Compostaje de residuos orgánicos</respuesta>
