@@ -2,6 +2,7 @@
 <contenido>
     <preguntas>
         <pregunta id="1">
+            <banner>Enel – HSEQ | CUESTIONARIO PREGUNTA 1</banner>
             <texto>¿Cuáles de las siguientes son estrategias utilizadas por el Grupo Enel para la gestión de riesgos? Puedes elegir varias respuestas</texto>
             <respuesta>Análisis de peligros y riesgos</respuesta>
             <respuesta>Mantenimiento predictivo y preventivo</respuesta>
@@ -9,6 +10,7 @@
             <respuesta>Matrices de aspectos e impactos ambientales</respuesta>
         </pregunta>
         <pregunta id="2">
+            <banner>Enel – HSEQ | CUESTIONARIO PREGUNTA 2</banner>
             <texto>¿Qué unidad lidera el análisis de materialidad para identificar las necesidades y expectativas de las partes interesadas en el sistema integrado de gestión HSEQ?</texto>
             <respuesta>Unidad de Operaciones y Mantenimiento</respuesta>
             <respuesta>Unidad de Sostenibilidad</respuesta>
@@ -16,9 +18,11 @@
             <respuesta>Unidad de Recursos Humanos</respuesta>
         </pregunta>
         <pregunta id="3">
+            <banner>Enel – HSEQ | CUESTIONARIO PREGUNTA 3</banner>
             <texto>La identificación de riesgos y oportunidades se realiza de manera mensual en todas las plantas de generación de Enel.</texto>
         </pregunta>
         <pregunta id="4">
+            <banner>Enel – HSEQ | CUESTIONARIO PREGUNTA 4</banner>
             <texto>¿Dónde se ubican los puntos de encuentro en las centrales de Enel?</texto>
             <respuesta>En lugares con buena ventilación e iluminación natural, retirados de cualquier tipo de Infraestructura</respuesta>
             <respuesta>Cerca de las áreas de operación</respuesta>
@@ -26,6 +30,7 @@
             <respuesta>Junto a los tableros eléctricos</respuesta>
         </pregunta>
         <pregunta id="5">
+            <banner>Enel – HSEQ | CUESTIONARIO PREGUNTA 5</banner>
             <texto>¿Cuáles de los siguientes elementos están incluidos en un kit de emergencia ambiental del Grupo Enel? Puedes elegir varias respuestas</texto>
             <respuesta>Desfibriladores</respuesta>
             <respuesta>Bolsas para residuos contaminados</respuesta>
@@ -33,6 +38,7 @@
             <respuesta>Herramientas como pala y escobilla</respuesta>
         </pregunta>
         <pregunta id="6">
+            <banner>Enel – HSEQ | CUESTIONARIO PREGUNTA 6</banner>
             <texto>¿Cuáles son algunos de los riesgos principales identificados por Enel en sus instalaciones? Puedes elegir varias respuestas</texto>
             <respuesta>Riesgo eléctrico por contacto directo o indirecto</respuesta>
             <respuesta>Riesgo mecánico por caídas o golpes</respuesta>
@@ -40,6 +46,7 @@
             <respuesta>Manipulación segura de residuos no peligrosos</respuesta>
         </pregunta>
         <pregunta id="7">
+            <banner>Enel – HSEQ | CUESTIONARIO PREGUNTA 7</banner>
             <texto>¿Qué debe hacerse en caso de identificar un riesgo o condición insegura durante una actividad?</texto>
             <respuesta>Continuar trabajando y reportar al final del turno</respuesta>
             <respuesta>Detener la actividad y reportar de inmediato al supervisor</respuesta>
@@ -47,12 +54,15 @@
             <respuesta>Tomar fotografías del riesgo y no realizar ninguna acción</respuesta>
         </pregunta>
         <pregunta id="8">
+            <banner>Enel – HSEQ | CUESTIONARIO PREGUNTA 8</banner>
             <texto>Los trabajos en espacios confinados deben contar con autorización específica y monitoreo constante.</texto>
         </pregunta>
         <pregunta id="9">
+            <banner>Enel – HSEQ | CUESTIONARIO PREGUNTA 9</banner>
             <texto>Es permitido manipular dispositivos eléctricos energizados sin autorización previa en las instalaciones de Enel.</texto>
         </pregunta>
         <pregunta id="10">
+            <banner>Enel – HSEQ | CUESTIONARIO PREGUNTA 10</banner>
             <texto>¿Cuáles son las características que debe tener la ropa de trabajo utilizada en las instalaciones de Enel?</texto>
             <respuesta>Ropa de algodón, ignífuga y antiestática</respuesta>
             <respuesta>Ropa sintética ligera</respuesta>
@@ -60,6 +70,7 @@
             <respuesta>Ropa resistente al agua, sin importar el material</respuesta>
         </pregunta>
         <pregunta id="11">
+            <banner>Enel – HSEQ | CUESTIONARIO PREGUNTA 11</banner>
             <texto>¿Qué iniciativa de Enel se centra en la gestión del uso eficiente del agua?</texto>
             <respuesta>BIRD</respuesta>
             <respuesta>ERA</respuesta>
@@ -67,6 +78,7 @@
             <respuesta>WAVE</respuesta>
         </pregunta>
         <pregunta id="12">
+            <banner>Enel – HSEQ | CUESTIONARIO PREGUNTA 12</banner>
             <texto>¿Qué herramienta utiliza Enel para identificar aspectos ambientales asociados a sus actividades?</texto>
             <respuesta>Environmental Risk Assessment (ERA)</respuesta>
             <respuesta>Matriz de Impactos Operacionales</respuesta>
@@ -82,6 +94,7 @@
             <respuesta>Aprovechamiento de materiales reciclables</respuesta>
         </pregunta>
         <pregunta id="14">
+            <banner>Enel – HSEQ | CUESTIONARIO PREGUNTA 14</banner>
             <texto>De manera permanente puedo aplicar la calidad en mis procesos cuando:</texto>
             <respuesta>Planifico mis actividades / Consulta y actualizo documentos de mi alcance / Realizo seguimiento a los indicadores KPI de mi alcance / Identifico y propongo ideas de mejora</respuesta>
             <respuesta>Consulto informes / Elaboro reportes de condiciones inseguras / Consulto documentos / Comunico a otros procesos</respuesta>
@@ -89,6 +102,7 @@
             <respuesta>Planifico mis actividades</respuesta>
         </pregunta>
         <pregunta id="15">
+            <banner>Enel – HSEQ | CUESTIONARIO PREGUNTA 15</banner>
             <texto>Sin importar a qué área/planta pertenezco, cuál es el principal producto/servicio de nuestra línea de negocio?</texto>
             <respuesta>Generación y venta de energía eléctrica</respuesta>
             <respuesta>Generación de energía eléctrica</respuesta>
