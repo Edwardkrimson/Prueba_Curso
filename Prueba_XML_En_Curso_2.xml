@@ -115,8 +115,8 @@
     <modulos>
         <modulo id="1">
             <actividad id="1">
-                <banner>Este es el banner de la actividad 1 del módulo 1</banner>
-                <texto>Arrastra y suelta el objeto correcto</texto>
+                <banner>Enel – HSEQ | Introducción</banner>
+                <texto>Arrastra y asocia correctamente la secuencia de sistema – objetivo de acuerdo a la normativa y al ícono que están fijos. Tienes 3 intentos.</texto>
                 <opcion>Opción A</opcion>
                 <opcion>Opción B</opcion>
                 <opcion>Opción C</opcion>
