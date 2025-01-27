@@ -140,6 +140,15 @@
                 <opcion>La centralización de decisiones operativas globales</opcion>
                 <opcion>La gestión exclusiva de calidad en plantas</opcion>
             </actividad>
+            <actividad id="2">
+                <banner>Enel – HSEQ | Sistema integrado de gestión HSEQ - Calidad</banner>
+                <opcion>física</opcion>
+                <opcion>centralizada</opcion>
+                <opcion>repositorio</opcion>
+                <opcion>virtual</opcion>
+                <opcion>restringida</opcion>
+                <opcion>archivo</opcion>
+            </actividad>
         </modulo>
     </modulos>
 </contenido>
