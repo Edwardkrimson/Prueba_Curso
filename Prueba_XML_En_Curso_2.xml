@@ -130,23 +130,15 @@
                 <opcion>Sistema de gestión de calidad</opcion>
                 <opcion>Prevenir incidentes y accidentes laborales</opcion>
             </actividad>
-            <actividad id="2">
-                <banner>Enel – HSEQ | Introducción</banner>
-                <texto>Arrastra y asocia correctamente la secuencia de sistema – objetivo de acuerdo a la normativa y al ícono que están fijos. Tienes 3 intentos.</texto>
-                <opcion>Opción A</opcion>
-                <opcion>Opción B</opcion>
-                <opcion>Opción C</opcion>
-                <opcion>Opción D</opcion>
-            </actividad>
         </modulo>
         <modulo id="2">
             <actividad id="1">
-                <banner>Este es el banner de la actividad 1 del módulo 2</banner>
-                <texto>Selecciona la opción correcta</texto>
-                <opcion>Respuesta A</opcion>
-                <opcion>Respuesta B</opcion>
-                <opcion>Respuesta C</opcion>
-                <opcion>Respuesta D</opcion>
+                <banner>Enel – HSEQ | Sistema integrado de gestión HSEQ - Calidad</banner>
+                <texto>Enel utiliza su Política del Sistema de Gestión Integrado para garantizar:</texto>
+                <opcion>La seguridad, protección ambiental y eficiencia energética</opcion>
+                <opcion>Solo la auditoria de procesos internos</opcion>
+                <opcion>La centralización de decisiones operativas globales</opcion>
+                <opcion>La gestión exclusiva de calidad en plantas</opcion>
             </actividad>
         </modulo>
     </modulos>
