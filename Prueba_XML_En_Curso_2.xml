@@ -117,14 +117,26 @@
             <actividad id="1">
                 <banner>Enel – HSEQ | Introducción</banner>
                 <texto>Arrastra y asocia correctamente la secuencia de sistema – objetivo de acuerdo a la normativa y al ícono que están fijos. Tienes 3 intentos.</texto>
-                <opcion>Opción A</opcion>
-                <opcion>Opción B</opcion>
-                <opcion>Opción C</opcion>
-                <opcion>Opción D</opcion>
+                <opcion>ISO 9001</opcion>
+                <opcion>ISO 14001</opcion>
+                <opcion>ISO 45001</opcion>
+                <opcion>ISO 50001</opcion>
+                <opcion>Sistema de gestión de la energía</opcion>
+                <opcion>Satisfacción de clientes internos y externos</opcion>
+                <opcion>Mejorar el desempeño energético de las plantas de generación</opcion>
+                <opcion>Sistema de Gestión Ambiental</opcion>
+                <opcion>Prevenir eventos ambientales</opcion>
+                <opcion>Sistema de gestión de seguridad y salud en el trabajo</opcion>
+                <opcion>Sistema de gestión de calidad</opcion>
+                <opcion>Prevenir incidentes y accidentes laborales</opcion>
             </actividad>
             <actividad id="2">
                 <banner>Enel – HSEQ | Introducción</banner>
                 <texto>Arrastra y asocia correctamente la secuencia de sistema – objetivo de acuerdo a la normativa y al ícono que están fijos. Tienes 3 intentos.</texto>
+                <opcion>Opción A</opcion>
+                <opcion>Opción B</opcion>
+                <opcion>Opción C</opcion>
+                <opcion>Opción D</opcion>
             </actividad>
         </modulo>
         <modulo id="2">
