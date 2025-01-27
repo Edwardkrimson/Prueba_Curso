@@ -150,6 +150,16 @@
                 <opcion>restringida</opcion>
                 <opcion>archivo</opcion>
             </actividad>
+            <actividad id="3">
+                <banner>Enel – HSEQ | Ciclo de PHVA</banner>
+                <texto>Arrastra las palabras correctas para completar el texto.</texto>
+                <opcion>plan de acción</opcion>
+                <opcion>responsables</opcion>
+                <opcion>proveedores</opcion>
+                <opcion>auditorias</opcion>
+                <opcion>contratistas</opcion>
+                <opcion>kaizen</opcion>
+            </actividad>
         </modulo>
     </modulos>
 </contenido>
