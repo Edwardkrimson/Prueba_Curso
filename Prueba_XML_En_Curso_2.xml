@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <contenido>
+<!-- PREGUNTAS DEL CUESTIONARIO -->
     <preguntas>
         <pregunta id="1">
             <banner>Enel – HSEQ | CUESTIONARIO PREGUNTA 1</banner>
@@ -110,4 +111,31 @@
             <respuesta>Desarrollo de nuevos negocios</respuesta>
         </pregunta>
     </preguntas>
+    <!-- ACTIVIDADES CON VIDEOS -->
+    <modulos>
+        <modulo id="1">
+            <actividad id="1">
+                <banner>Este es el banner de la actividad 1 del módulo 1</banner>
+                <texto>Arrastra y suelta el objeto correcto</texto>
+                <opcion>Opción A</opcion>
+                <opcion>Opción B</opcion>
+                <opcion>Opción C</opcion>
+                <opcion>Opción D</opcion>
+            </actividad>
+            <actividad id="2">
+                <banner>Enel – HSEQ | Introducción</banner>
+                <texto>Arrastra y asocia correctamente la secuencia de sistema – objetivo de acuerdo a la normativa y al ícono que están fijos. Tienes 3 intentos.</texto>
+            </actividad>
+        </modulo>
+        <modulo id="2">
+            <actividad id="1">
+                <banner>Este es el banner de la actividad 1 del módulo 2</banner>
+                <texto>Selecciona la opción correcta</texto>
+                <opcion>Respuesta A</opcion>
+                <opcion>Respuesta B</opcion>
+                <opcion>Respuesta C</opcion>
+                <opcion>Respuesta D</opcion>
+            </actividad>
+        </modulo>
+    </modulos>
 </contenido>
