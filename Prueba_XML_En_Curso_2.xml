@@ -202,5 +202,62 @@
                 <opcion>Seguir la señalización hasta el punto de encuentro es una acción correcta en caso de evacuación</opcion>
             </actividad>
         </modulo>
+        <modulo id="4">
+            <diapositiva id="1">
+                <banner>Enel – HSEQ | Reglas de Seguridad</banner>
+            </diapositiva>
+            <actividad id="1">
+                <banner>Enel – HSEQ | Lineamientos para Inicio de Trabajos</banner>
+                <texto>Clasifica las acciones como permitidas o prohibidas según las Reglas de Seguridad y los Lineamientos  para el inicio de trabajos en las instalaciones de Enel.</texto>
+                <opcion>Tener al día la afiliación y pagos de salud y pensión</opcion>
+                <opcion>Usar el equipo de protección personal (EPP) adecuado</opcion>
+                <opcion>Acceder a áreas restringidas sin autorización</opcion>
+                <opcion>Realizar desplazamientos solo por vías señalizadas</opcion>
+                <opcion>Fumar dentro de las instalaciones</opcion>
+                <opcion>Participar en la charla de seguridad diaria antes de iniciar el trabajo</opcion>
+                <opcion>Manipular dispositivos sin autorización previa</opcion>
+            </actividad>
+            <diapositiva id="2">
+                <banner>Enel – HSEQ | Señalización y delimitación de áreas</banner>
+            </diapositiva>
+            <actividad id="2">
+                <banner>Enel – HSEQ | Gestión del Riesgo Eléctrico y en Trabajos con Energías Peligrosas</banner>
+                <texto>¿Cuáles son las acciones correctas para asegurar la delimitación adecuada de áreas de trabajo en las  instalaciones de Enel?</texto>
+                <opcion>Usar dispositivos de bloqueo solo cuando se esté trabajando con maquinaria pesada</opcion>
+                <opcion>Colocar señales visibles y claras para delimitar el área de trabajo y evitar interferencias con otros colaboradores.</opcion>
+                <opcion>Usar los equipos que se van a intervenir como soporte para la delimitación del área</opcion>
+                <opcion>Colocar mallas, conos y vallas para asegurar el perímetro de trabajo y evitar interferencias</opcion>
+            </actividad>
+            <diapositiva id="3">
+                <banner>Enel – HSEQ | Trabajar de Forma Segura en Alturas y Uso Adecuado de Andamios</banner>
+            </diapositiva>
+            <actividad id="3">
+                <banner>Enel – HSEQ | Izajes y Carga Pesada</banner>
+                <texto>Arrastra y coloca en el orden adecuado los pasos a seguir durante una maniobra de izaje y carga  pesada en las instalaciones de Enel.</texto>
+                <opcion>Inspeccionar los elementos de izaje y equipos antes de la maniobra</opcion>
+                <opcion>Asegurarse de que el personal operativo esté capacitado y acreditado</opcion>
+                <opcion>Obtener la aprobación del plan de izaje antes de iniciar la maniobra</opcion>
+                <opcion>Realizar la maniobra de izaje asegurándose de que todos los equipos estén correctamente posicionados</opcion>
+                <opcion>el área de trabajo esté libre de interferencias y peligros</opcion>
+            </actividad>
+            <actividad id="4">
+                <banner>Enel – HSEQ | Trabajos en Espacios Confinados</banner>
+                <texto>Clasifica las acciones que se deben realizar antes y durante el trabajo.</texto>
+                <opcion>Solicitar autorización específica antes de ingresar al espacio confinado</opcion>
+                <opcion>Realizar mediciones de oxígeno y gases antes de ingresar</opcion>
+                <opcion>Asegurar que el espacio tenga suficiente ventilación natural o forzada</opcion>
+                <opcion>Alistar ropa de protección y EPPs adecuados para evitar la exposición a sustancias peligrosas</opcion>
+                <opcion>Mantener comunicación constante entre el personal en el espacio confinado y el personal exterior</opcion>
+                <opcion>Verificar que las herramientas y equipos estén  certificados para trabajar en espacios confinados</opcion>
+            </actividad>
+            <diapositiva id="4">
+                <banner>Enel – HSEQ | Manejo de Sustancias Químicas</banner>
+            </diapositiva>
+            <actividad id="4">
+                <banner>Enel – HSEQ | Existencia de Sustancias Peligrosas Como el Asbesto</banner>
+                <texto>Retira al personaje los objetos personales y equípalo con los elementos de protección personal.</texto>
+                <opcion>No aplica</opcion>
+            </actividad>
+        </modulo>
     </modulos>
 </contenido>
