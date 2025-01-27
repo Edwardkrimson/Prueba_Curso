@@ -142,6 +142,7 @@
             </actividad>
             <actividad id="2">
                 <banner>Enel – HSEQ | Sistema integrado de gestión HSEQ - Calidad</banner>
+                <texto>Selecciona la opción correcta para cada término relacionado con la gestión de calidad.</texto>
                 <opcion>física</opcion>
                 <opcion>centralizada</opcion>
                 <opcion>repositorio</opcion>
