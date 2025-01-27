@@ -160,9 +160,9 @@
                 <opcion>contratistas</opcion>
                 <opcion>kaizen</opcion>
             </actividad>
-        <diapositiva id="1">
-            <banner>Enel – HSEQ | Nuestros Principios del Sistema de Gestión Integrado</banner>
-        </diapositiva>
+            <diapositiva id="1">
+                <banner>Enel – HSEQ | Nuestros Principios del Sistema de Gestión Integrado</banner>
+            </diapositiva>
             <actividad id="4">
                 <banner>Enel – HSEQ | Responsabilidades</banner>
                 <texto>Arrastra las palabras correctas para completar el texto.</texto>
@@ -173,6 +173,15 @@
                 <opcion>Organización</opcion>
                 <opcion>lineamientos</opcion>
             </actividad>
+            <diapositiva id="2">
+                <banner>Enel – HSEQ | Verificar</banner>
+            </diapositiva>
+            <diapositiva id="3">
+                <banner>Enel – HSEQ | Planear</banner>
+            </diapositiva>
+            <diapositiva id="4">
+                <banner>Enel – HSEQ | Hacer</banner>
+            </diapositiva>
         </modulo>
     </modulos>
 </contenido>
