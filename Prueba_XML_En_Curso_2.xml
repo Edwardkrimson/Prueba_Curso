@@ -293,14 +293,15 @@
         <!-- TEXTOS EXTRAS -->
     <textosExtras>
       <introducciones>
-        <texto id="1">Este es el texto de introducción al curso</texto>
+        <texto id="1">Bienvenido al curso HSEQ de Enel. Aquí obtendrás los conocimientos necesarios para aplicar las prácticas ideales en Seguridad, Salud, Medio Ambiente y Calidad. Al concluir, comprenderás las medidas y responsabilidades necesarias para garantizar un entorno laboral seguro y eficiente, acorde a los criterios de excelencia de Enel.</texto>
       </introducciones>
       <instrucciones>
-        <cuestionario id="1">Esta es la instrucción 1 del cuestionario.</cuestionario>
-        <cuestionario id="2">Esta es la instrucción 2 del cuestionario.</cuestionario>
-        <cuestionario id="3">Esta es la instrucción 3 del cuestionario.</cuestionario>
-        <cuestionario id="4">Esta es la instrucción 4 del cuestionario.</cuestionario>
-        <modulo id="1">Esta es la instrucción al inicio de todos los módulos</modulo>
+        <cuestionario id="1">Antes de iniciar haremos un breve cuestionario para identificar qué tan interiorizado tienes el Sistema de Gestión Integrado.</cuestionario>
+        <cuestionario id="2">No te preocupes no tomará mucho tiempo.</cuestionario>
+        <cuestionario id="3">Recuerda que esta es solo una prueba de conocimiento previo.
+Al finalizar realizaremos nuevamente el cuestionario para validar tu aprendizaje.</cuestionario>
+        <cuestionario id="4">Solo puedes ver las respuestas de las preguntas incorrectas</cuestionario>
+        <cuestionario id="5">Ahora que has finalizado volvamos a repasar tus conocimientos.</cuestionario>
       </instrucciones>
       <retroalimentacion>
         <positiva>Este es el mensaje positivo que verá el usuario</positiva>
