@@ -259,5 +259,35 @@
                 <opcion>No aplica</opcion>
             </actividad>
         </modulo>
+        <modulo id="5">
+            <diapositiva id="1">
+                <banner>Enel – HSEQ | Gestión Ambiental</banner>
+            </diapositiva>
+            <diapositiva id="2">
+                <banner>Enel – HSEQ | Manejo de Aguas Residuales</banner>
+            </diapositiva>
+            <actividad id="1">
+                <banner>Enel – HSEQ | Gestión de Emisiones, Ruido y Olores y Gestión de la Biodiversidad</banner>
+                <texto>Arrastra a cada espacio los usos adecuados e inadecuados del agua según corresponda.</texto>
+                <opcion>No aplica</opcion>
+            </actividad>
+            <diapositiva id="3">
+                <banner>Enel – HSEQ | Educación Ambiental</banner>
+            </diapositiva>
+            <actividad id="2">
+                <banner>Enel – HSEQ | Manejo Integral de Residuos Sólidos Convencionales y Peligrosos</banner>
+                <texto>Separa los residuos arrastrando cada uno a su caneca correspondiente.</texto>
+                <opcion>No aplica</opcion>
+            </actividad>
+            <actividad id="3">
+                <banner>Enel – HSEQ | Transición Energética y Descarbonización. Identificación de Aspectos e Impactos Ambientales</banner>
+                <texto>Arrastra las acciones correctas a seguir para el manejo integral de residuos sólidos en las instalaciones de Enel.</texto>
+                <opcion>Clasificar los residuos en la fuente según su tipo (orgánico, reciclable, peligroso)</opcion>
+                <opcion>Desechar los residuos peligrosos en cualquier contenedor disponible</opcion>
+                <opcion>Colocar todos los residuos en el mismo contenedor para ahorrar más espacio</opcion>
+                <opcion>Utilizar los códigos de color establecidos para la segregación de residuos</opcion>
+                <opcion>Realizar seguimiento periódico para asegurar el cumplimiento de las normativas ambientales</opcion>
+            </actividad>
+        </modulo>
     </modulos>
 </contenido>
