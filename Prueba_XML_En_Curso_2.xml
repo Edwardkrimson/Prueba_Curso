@@ -290,4 +290,23 @@
             </actividad>
         </modulo>
     </modulos>
+        <!-- TEXTOS EXTRAS -->
+    <textosExtras>
+      <introducciones>
+        <texto id="1">Este es el texto de introducción al curso</texto>
+      </introducciones>
+      <instrucciones>
+        <cuestionario id="1">Esta es la instrucción 1 del cuestionario.</cuestionario>
+        <cuestionario id="2">Esta es la instrucción 2 del cuestionario.</cuestionario>
+        <cuestionario id="3">Esta es la instrucción 3 del cuestionario.</cuestionario>
+        <cuestionario id="4">Esta es la instrucción 4 del cuestionario.</cuestionario>
+        <modulo id="1">Esta es la instrucción al inicio de todos los módulos</modulo>
+      </instrucciones>
+      <retroalimentacion>
+        <positiva>Este es el mensaje positivo que verá el usuario</positiva>
+        <negativa>Este es el mensaje negativo que verá el usuario</negativa>
+        <respuestas>Este es el mensaje que mostrará las respuestas al usuario</respuestas>
+      </retroalimentacion>
+      <cierre>¡Felicidades! Has completado este módulo con éxito.</cierre>
+    </textosExtras>
 </contenido>
